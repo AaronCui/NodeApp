@@ -1,8 +1,8 @@
 {
-  "name": "sample",
+  "name": "sample-api",
   "version": "1.0.0",
   "description": "Testing a setup for sample web app",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
